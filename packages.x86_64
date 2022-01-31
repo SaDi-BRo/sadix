@@ -1,3 +1,4 @@
+# Based packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -117,4 +118,20 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+
+# z-shell
 zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-theme-powerlevel10k
+
+# Network
+networkmanager
+network-manager-applet
+
+## Bluetooth
+bluez
+bluez-utils
+
+## Applications
+chromium
