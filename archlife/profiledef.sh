@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="SaDiX"
-iso_label="SaDiX_$(date +%Y%m)"
-iso_publisher="SaD1Go0 <https://github.com/sad1go0/>"
-iso_application="SaDiX Linux Distribution"
+iso_name="sadix"
+iso_label="sadix_$(date +%Y%m)"
+iso_publisher="SaDi <https://github.com/sad1go0/>"
+iso_application="SaDiX Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
