@@ -123,7 +123,7 @@ xl2tpd
 # z-shell
 zsh
 zsh-autosuggestions
-zsh-syntax-highlighting
+fast-syntax-highlighting
 zsh-theme-powerlevel10k
 
 # Network
