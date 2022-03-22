@@ -52,6 +52,7 @@ libusb-compat
 linux
 linux-atm
 linux-firmware
+linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
@@ -127,7 +128,6 @@ zsh-theme-powerlevel10k
 
 # Network
 networkmanager
-network-manager-applet
 
 ## Bluetooth
 bluez
